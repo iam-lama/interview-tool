@@ -1,3 +1,3 @@
 streamlit
 openai
-git+https://github.com/okld/streamlit-js-eval.git
+streamlit-jseval @ git+https://github.com/okld/streamlit-js-eval.git@main
